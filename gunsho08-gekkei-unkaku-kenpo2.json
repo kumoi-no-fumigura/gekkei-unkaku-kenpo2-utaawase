@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gekkei-unkaku-kenpo2-utaawase",
  "yomi": "げっけいうんかくねたみうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三十番）",
+  "era": "建保2年（1214）9月30日",
+  "author": "未詳",
+  "desc": "九月尽日に公卿と殿上人が詠み合わせた月卿雲客妬歌合。河落葉・寄鳥恋・深山雨の題で、良平・家衡・経通・俊成卿女・雅経・行能らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
